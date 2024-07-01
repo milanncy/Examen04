@@ -1,7 +1,7 @@
 Examen Avanzado con los 5 EndPoints y las 5 Excepciones
 
-1.- Consumo de API con RestTemplate y agregar usuario:
-GET: http://localhost:8080/v1/empleado
+<b>1.- Consumo de API con RestTemplate y agregar usuario:</b><br>
+<b>GET: http://localhost:8080/v1/empleado</b><br>
 ![GET](https://github.com/milanncy/Examen04/assets/174217470/42c6e01f-6e30-4055-936f-6f360ef72ad9)
 
 {
@@ -9,6 +9,7 @@ GET: http://localhost:8080/v1/empleado
 }
 <br>
 BODY:
+<br>
 {
     "id": 4,
     "nombre": "DIEGO ANTONIO",
@@ -30,3 +31,4 @@ BODY:
     "dateDelete": null,
     "usuaDelete": null
 }
+<br><br>
