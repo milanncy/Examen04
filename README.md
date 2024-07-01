@@ -7,6 +7,7 @@ GET: http://localhost:8080/v1/empleado
 {
     "numDoc":"75200203"
 }
+<br>
 BODY:
 {
     "id": 4,
